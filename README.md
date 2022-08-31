@@ -2,9 +2,7 @@
 I am a 23 years old student of BSc in Computer Science (UNLP), currently living in Argentina. 
 Also, a JR Front-End Web Developer in continuous growth looking for my first professional experience in the IT world.
 
-<hr>
-
-- 🌱 I’m currently learning **more and more JS, and in the near future ReactJS**
+- 🌱 I’m currently learning **more JS, more HTML and more CSS. In the near future ReactJS**
 
 - 📫 Contact me **feliperodriguezcarle@hotmail.com**
 
