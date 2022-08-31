@@ -5,12 +5,12 @@ Never stop learning.
 
 - 🌱 I’m currently learning **more JS, more HTML and more CSS. In the near future ReactJS.**
 
-- 📫 Contact me **feliperodriguezcarle@hotmail.com**
-
 - <a href="https://linkedin.com/in/felipe-rodriguez-carle" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/felipe-rodriguez-carle" height="20" width="20"/>
 </a>
 
+- <a href="feliperodriguezcarle@hotmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3349/3349258.png" alt="email" height="20" width="20">
 <hr>
 
 ## Languages and Tools (so far):
