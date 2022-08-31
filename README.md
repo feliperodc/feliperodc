@@ -45,8 +45,7 @@ Never stop learning.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/felipe-rodriguez-carle" height="30" width="40"/>
 </a>
 </p>
-
-> *Those who keep learning, will keep rising in life.*
-> - Charlie Munger
+<hr>
+> *Those who keep learning, will keep rising in life.* ~ Charlie Munger
 
 
