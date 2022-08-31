@@ -1,7 +1,6 @@
 # Hello, I'm Felipe 👋
 I am a 23 years old student of BSc in Computer Science (UNLP). 
 Also, a JR Front-End Web Developer in continuous growth. 
-Never stop learning.
 
 - 🌱 I’m currently learning **more JS, more HTML and more CSS. In the near future ReactJS.**
 
@@ -46,6 +45,7 @@ Never stop learning.
         <li>AJAX (Fetch, Promises)</li>
     </ul>
 </p>
+<br><br>
 <hr>
 
 > *Those who keep learning, will keep rising in life.* ~ Charlie Munger
