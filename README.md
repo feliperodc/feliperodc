@@ -8,7 +8,7 @@ Never stop learning.
 - 📫 Contact me **feliperodriguezcarle@hotmail.com**
 
 - <a href="https://linkedin.com/in/felipe-rodriguez-carle" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/felipe-rodriguez-carle" height="10" width="10"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/felipe-rodriguez-carle" height="20" width="20"/>
 </a>
 
 <hr>
