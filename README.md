@@ -7,6 +7,10 @@ Never stop learning.
 
 - 📫 Contact me **feliperodriguezcarle@hotmail.com**
 
+- <a href="https://linkedin.com/in/felipe-rodriguez-carle" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/felipe-rodriguez-carle" height="10" width="10"/>
+</a>
+
 <hr>
 
 ## Languages and Tools (so far):
@@ -40,15 +44,6 @@ Never stop learning.
         <li>Single Page Applications (SPAs).</li>
         <li>AJAX (Fetch, Promises)</li>
     </ul>
-</p>
-<hr>
-
-## Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/felipe-rodriguez-carle" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/felipe-rodriguez-carle" height="30" width="40"/>
-</a>
 </p>
 <hr>
 
