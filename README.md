@@ -1,22 +1,23 @@
-<h1 align="left">Hello, I'm Felipe 👋</h1><hr>
+<h1 align="left">Hello, I'm Felipe 👋</h1>
 I am a 23 years old student of BSc in Computer Science (UNLP), currently living in Argentina. 
-I am a JR Front-End Web Developer in continuous growth and learning. Looking for my first professional experience in the IT world.
+Also, a JR Front-End Web Developer in continuous growth looking for my first professional experience in the IT world.
 
+<hr>
 
 - 🌱 I’m currently learning **more and more JS, and in the near future ReactJS**
 
 - 📫 Contact me **feliperodriguezcarle@hotmail.com**
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<<<<<<< HEAD
 <a href="https://linkedin.com/in/felipe-rodriguez-carle" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/felipe-rodriguez-carle" height="30" width="40" />
 </a>
-=======
-<a href="https://linkedin.com/in/felipe-rodriguez-carle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/felipe-rodriguez-carle" height="30" width="40" /></a>
->>>>>>> 3370c112d0925649ebcbb80eb3b7901392656e49
 </p>
+
+<hr>
 
 <h3 align="left">Languages and Tools (so far):</h3>
 <p align="left"> 
