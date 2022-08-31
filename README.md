@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Felipe 👋</h1>
+# Hello, I'm Felipe 👋
 I am a 23 years old student of BSc in Computer Science (UNLP). 
 Also, a JR Front-End Web Developer in continuous growth. 
 Never stop learning.
@@ -9,7 +9,8 @@ Never stop learning.
 
 <hr>
 
-<h3 align="left">Languages and Tools (so far):</h3>
+## Languages and Tools (so far):
+
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -30,8 +31,10 @@ Never stop learning.
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a> 
 </p>
+
+## Knowledge in:
+
 <p>
-    <h3 align="left">Knowledge in:</h3>
     <ul>
         <li>Responsive Design.</li>
         <li>Single Page Applications (SPAs).</li>
@@ -39,13 +42,16 @@ Never stop learning.
     </ul>
 </p>
 <hr>
-<h3 align="left">Connect with me:</h3>
+
+## Connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/felipe-rodriguez-carle" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/felipe-rodriguez-carle" height="30" width="40"/>
 </a>
 </p>
 <hr>
+
 > *Those who keep learning, will keep rising in life.* ~ Charlie Munger
 
 
