@@ -45,7 +45,7 @@ Also, a JR Front-End Web Developer in continuous growth.
         <li>AJAX (Fetch, Promises)</li>
     </ul>
 </p>
-<br><br>
+<br>
 <hr>
 
 > *Those who keep learning, will keep rising in life.* ~ Charlie Munger
