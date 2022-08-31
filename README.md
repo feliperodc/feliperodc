@@ -2,18 +2,9 @@
 I am a 23 years old student of BSc in Computer Science (UNLP), currently living in Argentina. 
 Also, a JR Front-End Web Developer in continuous growth looking for my first professional experience in the IT world.
 
-- 🌱 I’m currently learning **more JS, more HTML and more CSS. In the near future ReactJS**
+- 🌱 I’m currently learning **more JS, more HTML and more CSS. In the near future ReactJS.**
 
 - 📫 Contact me **feliperodriguezcarle@hotmail.com**
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/felipe-rodriguez-carle" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/felipe-rodriguez-carle" height="30" width="40" />
-</a>
-</p>
 
 <hr>
 
@@ -38,4 +29,22 @@ Also, a JR Front-End Web Developer in continuous growth looking for my first pro
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a> 
 </p>
+<p>
+    <h3 align="left">Knowledge in:</h3>
+    <ul>
+        <li>Responsive Design.</li>
+        <li>Single Page Applications (SPAs).</li>
+        <li>AJAX (Fetch, Promises)</li>
+    </ul>
+</p>
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/felipe-rodriguez-carle" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/felipe-rodriguez-carle" height="30" width="40"/>
+</a>
+</p>
+
+<hr>
+
 
