@@ -1,6 +1,7 @@
 <h1 align="left">Hello, I'm Felipe 👋</h1>
-I am a 23 years old student of BSc in Computer Science (UNLP), currently living in Argentina. 
-Also, a JR Front-End Web Developer in continuous growth looking for my first professional experience in the IT world.
+I am a 23 years old student of BSc in Computer Science (UNLP). 
+Also, a JR Front-End Web Developer in continuous growth. 
+Never stop learning.
 
 - 🌱 I’m currently learning **more JS, more HTML and more CSS. In the near future ReactJS.**
 
@@ -45,6 +46,7 @@ Also, a JR Front-End Web Developer in continuous growth looking for my first pro
 </a>
 </p>
 
-<hr>
+> *Those who keep learning, will keep rising in life.*
+> - Charlie Munger
 
 
