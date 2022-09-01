@@ -38,13 +38,12 @@ Also, a JR Front-End Web Developer in continuous growth.
 
 ## Knowledge in:
 
-<p>
-    <ul>
-        <li>Responsive Design.</li>
-        <li>Single Page Applications (SPAs).</li>
-        <li>AJAX (Fetch, Promises)</li>
-    </ul>
-</p>
+- Responsive Design.
+
+- Single Page Applications (SPAs).
+
+- AJAX (Fetch, Promises)
+
 <br>
 <hr>
 
