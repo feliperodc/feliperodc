@@ -52,6 +52,12 @@ Also, a JR Front-End Web Developer in continuous growth.
 - AJAX (Fetch, Promises)
 
 <br>
+
+## Projects
+
+- [Personal Web](https://feliperodc.github.io)
+- [Le Gout - Restaurante](https://feliperodc.github.io/legout-restaurante/)
+
 <hr>
 
 > *Those who keep learning, will keep rising in life.* ~ Charlie Munger
