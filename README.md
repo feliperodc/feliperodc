@@ -1,6 +1,6 @@
 ![Header](github-header-image.png)
 
-# Hello, I'm Felipe 👋
+
 I am a 23 years old student of BSc in Computer Science (UNLP). 
 Also, a JR Front-End Web Developer in continuous growth. 
 
