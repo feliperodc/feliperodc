@@ -16,6 +16,11 @@ Also, a JR Front-End Web Developer in continuous growth.
 </a>
 <hr>
 
+## Projects
+
+- [Personal Web](https://feliperodc.github.io)
+- [Le Gout - Restaurante](https://feliperodc.github.io/legout-restaurante/)
+
 ## Languages and Tools (so far):
 <br>
 
@@ -53,10 +58,6 @@ Also, a JR Front-End Web Developer in continuous growth.
 
 <br>
 
-## Projects
-
-- [Personal Web](https://feliperodc.github.io)
-- [Le Gout - Restaurante](https://feliperodc.github.io/legout-restaurante/)
 
 <hr>
 
