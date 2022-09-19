@@ -2,7 +2,7 @@
 
 
 I am a 23 years old student of BSc in Computer Science (UNLP). 
-Also, a JR Front-End Web Developer in continuous growth. 
+Also, a Front-End Web Developer in continuous growth. 
 
 - 🌱 I’m currently learning **more JS, more HTML and more CSS. In the near future ReactJS.**
 - <img src="https://raw.githubusercontent.com/google/region-flags/0e84c211b1aa531d829867aab35bed35822796ff/svg/GB.svg" height="15" width="17"> CEFR: C1 Advanced.
