@@ -1,21 +1,3 @@
-![Header](github-header-image.png)
-
-
-I am a 23 years old student of BSc in Computer Science (UNLP). 
-Also, a Front-End Web Developer in continuous growth. 
-
-- 🌱 I’m currently learning **more JS, more HTML and more CSS. In the near future ReactJS.**
-- <img src="https://raw.githubusercontent.com/google/region-flags/0e84c211b1aa531d829867aab35bed35822796ff/svg/GB.svg" height="15" width="17"> CEFR: C2 Advanced.
-
-- <a href="https://linkedin.com/in/felipe-rodriguez-carle" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" title="LinkedIn" height="20" width="20"/>
-</a> 
-
-- <a href="feliperodriguezcarle@hotmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3349/3349258.png" alt="email" title="Mail" height="20" width="20">
-</a>
-<hr>
-
 ## Projects
 
 - [Personal Web](https://feliperodc.github.io)
